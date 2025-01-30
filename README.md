@@ -10,8 +10,7 @@ This project focuses on building a Neural Network-based classification model to 
 ✅ Analyze key features that influence water potability predictions.
 
 🗂 **Dataset**
-The dataset consists of 10 numerical attributes that measure different water quality parameters:
-
+The dataset consists of 10 numerical attributes that measure different water quality parameters:<br>
 pH: Water acidity/alkalinity level.<br>
 Hardness: Mineral content in water.<br>
 Solids: Total dissolved solids.<br>
@@ -30,5 +29,5 @@ Scikit-Learn<br>
 Pandas & NumPy<br>
 Matplotlib & Seaborn<br>
 
-📊 **Model Performance**
+📊 **Model Performance**<br>
 The model's performance is evaluated using metrics like accuracy, precision, recall, and F1-score. Feature importance analysis is also conducted to understand which attributes significantly impact water potability.
